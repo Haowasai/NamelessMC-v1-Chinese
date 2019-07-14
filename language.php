@@ -70,7 +70,7 @@ $admin_language = array(
 	
 	// 管理核心页面
 	'general_settings' => '一般设定',
-	'modules' => '模組',
+	'modules' => '模组',
 	'module_not_exist' => '找不到该模组！',
 	'module_enabled' => '模组启用完成。',
 	'module_disabled' => '模组停用完成。',
@@ -476,7 +476,7 @@ $user_language = array(
 	
 	// 信息
 	'new_message' => '新的讯息',
-	'no_messages' => '沒有讯息',
+	'no_messages' => '没有讯息',
 	'and_x_more' => '还有 {x} 个', // 不能替换 "{x}"
 	'system' => '系统',
 	'message_title' => '讯息标题',
@@ -543,7 +543,7 @@ $user_language = array(
 	'your_password_has_been_changed' => '密码变更完成。',
 	
 	// 配置文件页
-	'profile' => '主意',
+	'profile' => '主页',
 	'player' => '玩家',
 	'offline' => '离线',
 	'online' => '在线',
