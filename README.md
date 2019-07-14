@@ -2,7 +2,7 @@
 
 # 介绍
 NamelessMC v1 简体中文
-演示站：www.mc.i9mc.top
+演示站：bbs.mc.i9mc.top
 联系QQ：321230034
 
 # 如何使用？
